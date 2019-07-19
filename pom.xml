@@ -9,6 +9,7 @@
     <version>0.1.0</version>
     <modules>
         <module>agendarentrega-clients</module>
+        <module>agendarentrega-examples</module>
     </modules>
     <packaging>pom</packaging>
 </project>

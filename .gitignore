@@ -1,9 +1,11 @@
 .idea
 .project
+.classpath
 .settings
 *.iml
 
 agendarentrega-examples/target
 agendarentrega-clients/target
+agendarentrega-clients/.classpath
 agendarentrega-clients/*/target
 agendarentrega-clients/*/.classpath
