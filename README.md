@@ -7,8 +7,8 @@ Edite o seu arquivo pom.xml e adicione a seguinte configuração:
 
 ```xml
   <!--
-    É necessário adicionar o jitpack como um "driver" de dependência,
-    para que seja possível realizar a utilização do pacote diretamente dos releases gerados no github
+    É necessário adicionar o jitpack, repositório de pacotes baseado em projetos git.
+    Com ele será possível realizar a utilização do pacote diretamente dos releases gerados no github
   -->
   <repositories>
     <repository>
