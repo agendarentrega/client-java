@@ -12,6 +12,11 @@
     <dependencies>
         <dependency>
             <groupId>com.agendarentrega</groupId>
+            <artifactId>agendarentrega-invoker</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.agendarentrega</groupId>
             <artifactId>agendarentrega-pedido</artifactId>
             <version>1.0.0</version>
         </dependency>

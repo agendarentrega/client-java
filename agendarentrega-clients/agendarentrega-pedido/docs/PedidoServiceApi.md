@@ -17,10 +17,10 @@ Method | HTTP request | Description
 ### Example
 ```java
 // Import classes:
-//import com.agendarentrega.clients.pedido.invoker.ApiClient;
-//import com.agendarentrega.clients.pedido.invoker.ApiException;
-//import com.agendarentrega.clients.pedido.invoker.Configuration;
-//import com.agendarentrega.clients.pedido.invoker.auth.*;
+//import com.agendarentrega.core.invoker.ApiClient;
+//import com.agendarentrega.core.invoker.ApiException;
+//import com.agendarentrega.core.invoker.Configuration;
+//import com.agendarentrega.core.invoker.auth.*;
 //import com.agendarentrega.clients.pedido.service.PedidoServiceApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();
@@ -74,10 +74,10 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-//import com.agendarentrega.clients.pedido.invoker.ApiClient;
-//import com.agendarentrega.clients.pedido.invoker.ApiException;
-//import com.agendarentrega.clients.pedido.invoker.Configuration;
-//import com.agendarentrega.clients.pedido.invoker.auth.*;
+//import com.agendarentrega.core.invoker.ApiClient;
+//import com.agendarentrega.core.invoker.ApiException;
+//import com.agendarentrega.core.invoker.Configuration;
+//import com.agendarentrega.core.invoker.auth.*;
 //import com.agendarentrega.clients.pedido.service.PedidoServiceApi;
 
 ApiClient defaultClient = Configuration.getDefaultApiClient();

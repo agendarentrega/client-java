@@ -1,7 +1,7 @@
 package com.agendarentrega.clients;
 
+import com.agendarentrega.core.invoker.ApiClient;
 import com.agendarentrega.clients.pedido.service.*;
-import com.agendarentrega.clients.pedido.invoker.ApiClient;
 
 public class Pedido {
     private ApiClient client;

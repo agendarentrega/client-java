@@ -11,7 +11,7 @@
  */
 
 
-package com.agendarentrega.clients.pedido.invoker.auth;
+package com.agendarentrega.core.invoker.auth;
 
 public enum OAuthFlow {
     accessCode, implicit, password, application

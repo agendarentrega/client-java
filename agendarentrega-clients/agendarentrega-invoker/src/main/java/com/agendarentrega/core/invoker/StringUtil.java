@@ -11,7 +11,7 @@
  */
 
 
-package com.agendarentrega.clients.pedido.invoker;
+package com.agendarentrega.core.invoker;
 
 
 public class StringUtil {

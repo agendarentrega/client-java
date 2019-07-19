@@ -13,7 +13,7 @@
 
 package com.agendarentrega.clients.pedido.service;
 
-import com.agendarentrega.clients.pedido.invoker.ApiException;
+import com.agendarentrega.core.invoker.ApiException;
 import com.agendarentrega.clients.pedido.models.PedidoAlterarStatusPedidoRequest;
 import com.agendarentrega.clients.pedido.models.PedidoAlterarStatusPedidoResponse;
 import com.agendarentrega.clients.pedido.models.PedidoImportarPedidoRequest;

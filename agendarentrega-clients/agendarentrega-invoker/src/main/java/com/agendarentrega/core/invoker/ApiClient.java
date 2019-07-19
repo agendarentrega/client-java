@@ -11,7 +11,7 @@
  */
 
 
-package com.agendarentrega.clients.pedido.invoker;
+package com.agendarentrega.core.invoker;
 
 import com.squareup.okhttp.*;
 import com.squareup.okhttp.internal.http.HttpMethod;
@@ -45,10 +45,10 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.agendarentrega.clients.pedido.invoker.auth.Authentication;
-import com.agendarentrega.clients.pedido.invoker.auth.HttpBasicAuth;
-import com.agendarentrega.clients.pedido.invoker.auth.ApiKeyAuth;
-import com.agendarentrega.clients.pedido.invoker.auth.OAuth;
+import com.agendarentrega.core.invoker.auth.Authentication;
+import com.agendarentrega.core.invoker.auth.HttpBasicAuth;
+import com.agendarentrega.core.invoker.auth.ApiKeyAuth;
+import com.agendarentrega.core.invoker.auth.OAuth;
 
 public class ApiClient {
 

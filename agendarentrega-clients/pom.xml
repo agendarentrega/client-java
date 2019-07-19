@@ -10,6 +10,7 @@
 
     <modules>
         <module>agendarentrega-core</module>
+        <module>agendarentrega-invoker</module>
         <module>agendarentrega-pedido</module>
     </modules>
 

@@ -13,14 +13,14 @@
 
 package com.agendarentrega.clients.pedido.service;
 
-import com.agendarentrega.clients.pedido.invoker.ApiCallback;
-import com.agendarentrega.clients.pedido.invoker.ApiClient;
-import com.agendarentrega.clients.pedido.invoker.ApiException;
-import com.agendarentrega.clients.pedido.invoker.ApiResponse;
-import com.agendarentrega.clients.pedido.invoker.Configuration;
-import com.agendarentrega.clients.pedido.invoker.Pair;
-import com.agendarentrega.clients.pedido.invoker.ProgressRequestBody;
-import com.agendarentrega.clients.pedido.invoker.ProgressResponseBody;
+import com.agendarentrega.core.invoker.ApiCallback;
+import com.agendarentrega.core.invoker.ApiClient;
+import com.agendarentrega.core.invoker.ApiException;
+import com.agendarentrega.core.invoker.ApiResponse;
+import com.agendarentrega.core.invoker.Configuration;
+import com.agendarentrega.core.invoker.Pair;
+import com.agendarentrega.core.invoker.ProgressRequestBody;
+import com.agendarentrega.core.invoker.ProgressResponseBody;
 
 import com.google.gson.reflect.TypeToken;
 

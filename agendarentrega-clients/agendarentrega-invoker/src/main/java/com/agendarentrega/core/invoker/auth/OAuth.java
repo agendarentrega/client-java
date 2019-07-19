@@ -11,9 +11,9 @@
  */
 
 
-package com.agendarentrega.clients.pedido.invoker.auth;
+package com.agendarentrega.core.invoker.auth;
 
-import com.agendarentrega.clients.pedido.invoker.Pair;
+import com.agendarentrega.core.invoker.Pair;
 
 import java.util.Map;
 import java.util.List;

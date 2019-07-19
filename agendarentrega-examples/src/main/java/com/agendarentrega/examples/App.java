@@ -1,9 +1,9 @@
 package com.agendarentrega.examples;
 
 import com.agendarentrega.clients.Client;
-import com.agendarentrega.clients.pedido.invoker.ApiException;
 import com.agendarentrega.clients.pedido.service.PedidoServiceApi;
 import com.agendarentrega.clients.pedido.models.*;
+import com.agendarentrega.core.invoker.ApiException;
 
 /**
  * Exemplos: Importação de pedido
